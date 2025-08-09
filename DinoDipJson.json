@@ -215,7 +215,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
 						"chancetodrop": 0.95
 					}
 				],
@@ -472,4 +472,5 @@
 		]
 	}
 }
+
 
