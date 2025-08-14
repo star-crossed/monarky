@@ -67,6 +67,18 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
 						"chancetodrop": 0.9
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
+						"chancetodrop": 0.7
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+						"chancetodrop": 0.7
 					}
 				],
 				"dipstogive": 5
@@ -387,6 +399,7 @@
 		]
 	}
 }
+
 
 
 
