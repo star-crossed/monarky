@@ -37,7 +37,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",						
 						"chancetodrop": 0.9
 					},
 					{
@@ -110,7 +110,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
@@ -387,6 +387,7 @@
 		]
 	}
 }
+
 
 
 
