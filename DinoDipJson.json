@@ -114,6 +114,10 @@
 						"chancetodrop": 0.9
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+						"chancetodrop": 0.9
+					},					
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
 						"chancetodrop": 0.9
 					},
@@ -122,28 +126,16 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-						"chancetodrop": 0.9
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn_C",
 						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
-						"chancetodrop": 0.95
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-						"chancetodrop": 0.95
+						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
+						"chancetodrop": 0.7
 					}
 				],
 				"dipstogive": 5
@@ -399,6 +391,7 @@
 		]
 	}
 }
+
 
 
 
