@@ -87,7 +87,7 @@
 						"chancetodrop": 0.7
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 8
 			},
 			{
 				"weekforoptions": [
@@ -144,7 +144,7 @@
 						"chancetodrop": 0.7
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
@@ -205,7 +205,7 @@
 						"chancetodrop": 0.9
 					}					
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -266,7 +266,7 @@
 						"chancetodrop": 0.7
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -397,6 +397,7 @@
 		]
 	}
 }
+
 
 
 
